@@ -1,3 +1,3 @@
 # shopping_list_mobile
 
-A new Flutter project.
+A new Flutter project by me.
